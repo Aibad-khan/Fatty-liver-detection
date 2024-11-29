@@ -1,5 +1,6 @@
 # Fatty-liver-detection
 fine tuned vgg16 model to detect fatty liver in patients ct scan images
+
 <img width="506" alt="image" src="https://github.com/user-attachments/assets/c7edc578-48d6-4fe9-ae74-e9dd86280640">
 
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/d091e4be-7731-4cb9-8007-549634d0430b">
